@@ -14,7 +14,7 @@ export const config = {
   OAuthClientID: 'Iv1.53fb13f2ce0dad1d',
   OAuthSecret: '597cbfad209f7eaf1dc92988ab8fd09119fb4bff',
 
-  // Your Personal Blog Title
+  // Your Personal Blog Title can be anything
   title : "Blog" ,
 
   // Your Personal Blog Subtitle
