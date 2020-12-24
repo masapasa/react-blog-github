@@ -1,9 +1,9 @@
 export const config = {
   // Your Github Converted Token To Know How To Get Your Token Look at Readme.md
-  githubConvertedToken: "MzM2N2YxZDRjNDk5MmQ4MGVjNzQwYmM5Y2FlZWYyNDE0ZGQ4NWFiYQ==",
+  githubConvertedToken: "YjNlNmNmZDBiMjNmZTE2M2VhNTgxMGIyODkwOGUwMmU1NjlmODhlMQ==",
 
   // Your Github UserName
-  githubUserName: "saadpasta",
+  githubUserName: "masapasa",
 
   // Your Github Repo Name Where You Have your issues as Blog
   githubRepo: "react-blog-github",
@@ -11,11 +11,11 @@ export const config = {
   // Set it to true if you have a Github app to add to this project
   // and fill the client ID & secret
   enableOAuth: true,
-  OAuthClientID: 'Iv1.9f40fd53257d4102',
-  OAuthSecret: 'cc3db76ffe9848c92d83172807eececa79f0eb22',
+  OAuthClientID: 'Iv1.53fb13f2ce0dad1d',
+  OAuthSecret: '597cbfad209f7eaf1dc92988ab8fd09119fb4bff',
 
   // Your Personal Blog Title
-  title : "Saad Pasta" ,
+  title : "Blog" ,
 
   // Your Personal Blog Subtitle
   subtitle : "Software Developer",
